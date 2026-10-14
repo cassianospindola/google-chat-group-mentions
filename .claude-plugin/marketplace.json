@@ -1,0 +1,14 @@
+{
+  "name": "google-chat-group-mentions",
+  "description": "Mention a whole Google Group in Google Chat with an Apps Script bot",
+  "owner": {
+    "name": "Cassiano Santos Espindola"
+  },
+  "plugins": [
+    {
+      "name": "google-chat-group-mentions",
+      "source": "./plugins/google-chat-group-mentions",
+      "description": "Skill to build a Google Chat app that expands a Google Group alias into individual mentions"
+    }
+  ]
+}

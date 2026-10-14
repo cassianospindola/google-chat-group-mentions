@@ -1,0 +1,9 @@
+{
+  "name": "google-chat-group-mentions",
+  "version": "1.0.0",
+  "description": "Skill to build a Google Chat app that expands a Google Group alias into individual mentions",
+  "author": {
+    "name": "Cassiano Santos Espindola"
+  },
+  "license": "MIT"
+}
